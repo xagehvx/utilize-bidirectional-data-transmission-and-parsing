@@ -1,0 +1,2 @@
+eeprom.c:10:6:read_eeprom	40	static
+eeprom.c:19:6:write_eeprom	40	static
